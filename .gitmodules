@@ -1,0 +1,12 @@
+[submodule "backend-token-wallets"]
+	path = backend-token-wallets
+	url = https://github.com/LibreCash/backend-token-wallets
+[submodule "backend-verify"]
+	path = backend-verify
+	url = https://github.com/LibreCash/backend-verify
+[submodule "backend-notify"]
+	path = backend-notify
+	url = https://github.com/LibreCash/backend-notify
+[submodule "frontend-token-wallets"]
+	path = frontend-token-wallets
+	url = git@github.com:JincorTech/frontend-token-wallets.git
